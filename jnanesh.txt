@@ -1,1 +1,5 @@
+<<<<<<< newbranch
+hello world 
+=======
 hello world
+>>>>>>> nice
